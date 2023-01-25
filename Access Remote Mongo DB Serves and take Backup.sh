@@ -5,6 +5,10 @@
 # Copy the backup zip folder to our local host
 # Clear all the files form Remote_Server
 
+# Make sure to Install sshpass
+# Give Permissions to your shell script file using
+# $ chmod +x Script-Name.sh
+
 # Change Remote_Server Credientials, Database_Name and path for the files
 
 remote_server=username@ip
